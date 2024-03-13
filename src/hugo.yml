@@ -8,7 +8,7 @@ theme: "hugo-theme-lean-launch-page"
 googleAnalytics: "G-H07RT92GBV"
 
 params:
-  tagline: "A open-source events platform coming soon"
+  tagline: "An open-source events platform coming soon"
   mailchimpURL: "https://melitix.us22.list-manage.com/subscribe/post?u=fe896ef5a18ba018ca43aa978&amp;id=b9fbfc1654&amp;f_id=0075c2e1f0"
   mastodon: "https://nanobyte.cafe/@EventHunt"
   github: "https://github.com/eventhunt-org"
