@@ -24,6 +24,7 @@
 {{ end }}
 	<ul class="social-icons">
 		{{ if isset .Site.Params "mastodon" }}<li><a href="{{ .Site.Params.mastodon }}"><i class="fa-brands fa-mastodon"></i></a></li>{{ end }}
+		{{ if isset .Site.Params "threads" }}<li><a href="{{ .Site.Params.threads }}"><i class="fa-brands fa-threads"></i></a></li>{{ end }}
 		{{ if isset .Site.Params "facebook" }}<li><a href="{{ .Site.Params.facebook }}"><i class="fa-brands fa-facebook"></i></a></li>{{ end }}
 		{{ if isset .Site.Params "instagram" }}<li><a href="{{ .Site.Params.instagram }}"><i class="fa-brands fa-instagram"></i></a></li>{{ end }}
 		{{ if isset .Site.Params "youtube" }}<li><a href="{{ .Site.Params.youtube }}"><i class="fa-brands fa-youtube"></i></a></li>{{ end }}

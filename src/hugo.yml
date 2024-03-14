@@ -11,4 +11,6 @@ params:
   tagline: "An open-source events platform coming soon"
   mailchimpURL: "https://melitix.us22.list-manage.com/subscribe/post?u=fe896ef5a18ba018ca43aa978&amp;id=b9fbfc1654&amp;f_id=0075c2e1f0"
   mastodon: "https://nanobyte.cafe/@EventHunt"
+  threads: "https://www.threads.net/@eventhunthq"
+  facebook: "https://www.facebook.com/EventHuntHQ"
   github: "https://github.com/eventhunt-org"
